@@ -1,0 +1,57 @@
+AMORA — PÁGINA EM ESPANHOL PARA O MÉXICO
+
+COMO PUBLICAR
+Extraia o ZIP e envie todo o conteúdo da pasta para uma hospedagem estática.
+Mantenha index.html, config.js, interacciones.js, localizacion.css e a pasta
+assets juntos. Na Vercel, use o preset Other, sem instalação e sem comando de
+build; a saída fica na raiz da pasta.
+
+ATENÇÃO: não envie apenas o index.html e não reaproveite uma pasta assets de
+uma versão anterior. Substitua o projeto inteiro pelo conteúdo deste ZIP. Esta
+versão inclui também nomes alternativos dos arquivos principais para evitar
+falhas causadas por HTML em cache durante a troca de versão.
+
+CHECKOUT E FORMULÁRIO
+Todos os CTAs de compra abrem primeiro o formulário de entrega mexicano.
+O formulário inclui nome, e-mail, telefone, código postal, estado, município ou
+alcaldía, colonia, calle, número exterior e campos opcionais. A seleção contém
+as 32 entidades federativas do México. Depois dos campos obrigatórios serem
+preenchidos, o usuário segue para https://xpag.global/pay/oaNxFYy5.
+Os parâmetros UTM, fbclid, campaign_id, ad_id e adset_id são preservados.
+
+MÉXICO
+Preço anterior: $399.00 MXN. Preço atual: $249.90 MXN.
+Envio grátis a todo o México por Correos de México (Sepomex).
+Quantidade limitada a uma unidade. Pagamentos exibidos: SPEI e OXXO.
+Não há redirecionamento para gateways brasileiros.
+
+META PIXEL
+Pixel configurado: 2805935753235139.
+Eventos configurados: PageView, ViewContent e InitiateCheckout.
+PageView e ViewContent ocorrem no carregamento da página. InitiateCheckout
+ocorre uma única vez quando o formulário de entrega é aberto pela primeira vez.
+
+IMAGENS E MÍDIA
+O primeiro banner está incorporado ao HTML e ao modal da galeria, evitando erro
+por caminho ausente ou cache antigo. O mesmo banner também está disponível no
+caminho assets/hero-amora-neutral.webp para compatibilidade com versões em
+cache. As artes principais em espanhol estão em arquivos próprios dentro de
+assets, sem depender de textos HTML por cima da fotografia. Os nomes antigos da
+galeria apontam para cópias das artes em espanhol, evitando uma mistura entre
+HTML novo e arquivos antigos. Imagens abaixo da dobra e vídeos usam carregamento
+sob demanda. Os quatro arquivos MP4 e todas as imagens referenciadas foram
+verificados.
+
+INTERAÇÕES
+A galeria, miniaturas, setas, gesto lateral, ampliação, menu móvel, perguntas,
+carrosséis, linha progressiva da seção de ângulo, barra fixa e formulários estão
+ativos. Links sem destino local não exibem avisos. O formulário de avaliação
+permite nota, comentário, nome, e-mail e até cinco prévias locais; nesta versão
+ele confirma o preenchimento na tela e não envia dados para um banco externo.
+
+VERIFICAÇÃO FINAL
+Foram conferidos: sintaxe JavaScript, todos os caminhos locais, decodificação
+das imagens, integridade dos vídeos, galeria, formulário de entrega, seleção de
+estado, formulário de avaliação, quantidade, eventos do pixel, desktop e layout
+estreito de celular. Marcador de versão: v11-assets-complete. O pacote não inclui
+arquivo de preview mobile.
