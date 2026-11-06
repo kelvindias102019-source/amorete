@@ -35,7 +35,7 @@
       content_name: 'Amora™',
       content_type: 'product',
       num_items: 1,
-      value: 249.90,
+      value: 199.90,
       currency: 'MXN'
     });
     initiateCheckoutTracked = true;

@@ -20,7 +20,7 @@ preenchidos, o usuário segue para https://xpag.global/pay/oaNxFYy5.
 Os parâmetros UTM, fbclid, campaign_id, ad_id e adset_id são preservados.
 
 MÉXICO
-Preço anterior: $399.00 MXN. Preço atual: $249.90 MXN.
+Preço anterior: $399.00 MXN. Preço atual: $199.90 MXN.
 Envio grátis a todo o México por Correos de México (Sepomex).
 Quantidade limitada a uma unidade. Pagamentos exibidos: SPEI e OXXO.
 Não há redirecionamento para gateways brasileiros.
